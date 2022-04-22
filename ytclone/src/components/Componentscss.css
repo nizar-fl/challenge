@@ -1,0 +1,75 @@
+
+.mainvid{
+    width: 910px;
+    height: 515px;
+    margin-top: 30px;
+    
+}
+.vidtitle{
+    margin-left: 2px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    margin-top: 3px;
+    font-weight: 100;
+    margin-bottom: 9px;
+}
+.hs{
+    margin-left: 4px;
+    font-size: 12px;
+    text-decoration: none;
+    color: rgb(53, 53, 249);
+}
+.viewsanddate{
+    color: gray;
+    font-size: 15px;
+    margin-top: 5px;
+    font-weight: 300;
+}
+
+.secandarybox{
+    display: flex;
+    align-items: center;
+}
+
+.bi-hand-thumbs-up{
+    margin-left: 300px;
+
+}
+.bi-hand-thumbs-down{
+    margin-left: 14px;
+}
+.bi-arrow-return-right{
+    margin-left: 9px;
+
+}
+.line{
+    height: 1px;
+    background-color: rgba(167, 167, 167, 0.219);
+    width: 84%;
+    margin-left: 5px;
+}
+.eachbox{
+    margin-top: 30px;
+    display: flex;
+}
+.eachboxtitle{
+    margin-left: 10px;
+    margin-top: 0;
+    font-size: 15px;
+    font-weight: 500;  
+    margin-bottom: 0px;
+}
+.eachboxchannel{
+    margin-left: 10px;
+    margin-top: 2px;
+    color: gray;
+    font-size: 14px;
+    margin-bottom: 0px;
+}
+.eachboxviews{
+    font-size: 13px;
+    color: gray;
+    margin-top: 2px;
+    margin-left: 10px;
+}
+

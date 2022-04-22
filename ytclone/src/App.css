@@ -1,0 +1,9 @@
+/* el vidddeoooooooooooooooo */
+.mainbox{
+    background-color: rgba(255, 255, 255, 0.112);
+    height: 1000px;
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    /* margin-top: px;     */
+    margin-left: 85px;
+}
